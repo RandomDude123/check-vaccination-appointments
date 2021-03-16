@@ -1,4 +1,4 @@
-# Simple Puppeter script to check https://www.impfterminservice.de/impftermine for open appointments
+Simple Puppeter script to check https://www.impfterminservice.de/impftermine for open appointments
 
 1. clone repo
 2. install dependencies `npm i`
